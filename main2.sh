@@ -27,7 +27,6 @@ sudo apt install usbmount -y
 ## Install the various softwares
 ~/apsync-Kakute/mavlink-router.sh
 ~/apsync-Kakute/apweb.sh
-~/apsync-Kakute/apstreamline.sh
 ~/apsync-Kakute/use_networkmanager.sh
 
 sudo reboot
