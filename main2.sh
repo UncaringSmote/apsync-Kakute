@@ -17,7 +17,7 @@ source ~/.profile
 
 ## Add required packages for general
 sudo apt install git screen python python-dev python-pip python-matplotlib -y
-sudo apt install -y libxml2-dev libxslt1.1 libxslt1-dev libz-dev python-lxml
+sudo apt install -y libxml2-dev libxslt1.1 libxslt1-dev libz-dev python-lxml python-future
 #sudo pip3 install --upgrade pip
 pip install pyserial future pymavlink mavproxy geopy numpy dronekit --user
 
