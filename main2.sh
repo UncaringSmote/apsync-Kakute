@@ -19,7 +19,7 @@ source ~/.profile
 sudo apt install git screen python python-dev python-pip python-matplotlib -y
 sudo apt install -y libxml2-dev libxslt1.1 libxslt1-dev libz-dev python-lxml python3-future
 #sudo pip3 install --upgrade pip
-pip install pyserial future pymavlink mavproxy geopy numpy dronekit --user
+pip install pyserial future pymavlink mavproxy geopy numpy dronekit gpiozero --user
 
 ## Install a package that will automatically mount & unmount USB drives
 sudo apt install usbmount -y
